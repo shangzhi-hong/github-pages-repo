@@ -1,0 +1,2 @@
+## GitHub page initialization
+Content
